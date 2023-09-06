@@ -7,4 +7,5 @@ course: compsci
 
 # Time Box Notebooks
 
-[8-30](2023-08-30-Calculator.ipynb)
+
+[8-17](/nighthawk-test/_notebooks/2023-08-17-Markdown_Table_Code_Hack.ipynb)
